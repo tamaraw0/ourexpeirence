@@ -1,0 +1,7 @@
+res://main.tscn
+res://components/player/spriteframes-red.tres
+res://spaces/tileset-a.tres
+res://components/flag/flag-spriteframes-green.tres
+res://audio_stream_player.tscn
+res://components/enemy/enemy.tscn
+res://beginning.tscn
